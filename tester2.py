@@ -1,4 +1,4 @@
-from RPiSim import GPIO
+from RpiGPIOSimulator.RPiSim.GPIO import GPIO
 #import RPi.GPIO as GPIO
 import time
 import traceback

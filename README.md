@@ -1,8 +1,23 @@
-# RpiGPIOSimulator
+# GPIOSimulator
 
-This repo started from GPIOSimulator-0.01 (https://pypi.org/project/GPIOSimulator/#files)
+This repo forked from GPIOSimulator-0.01 (https://pypi.org/project/GPIOSimulator/#files)
 This Raspberry Pi emulator simulates some of the functions used in the RPi.GPIO library (using python). The intention of this library is educational.
 
+# Require
+
+- Python 3.5
+
+# Install
+
+```bash
+$ pip install git+https://github.com/joeyous/RpiGPIOSimulator/
+```
+
+# API
+
+```python
+from RPiSim.GPIO import GPIO as simGPIO
+```
 
 ## Installation
 

@@ -19,7 +19,7 @@ setup(
     long_description=read('README.md'),
     author='Joe Youssef',
     author_email='joe.n.youssef@gmail.com',
-    url='https://github.com/joeyous/rpi-gpio-simulator',
+    url='https://github.com/joeyous/RpiGPIOSimulator',
     packages=['RPiSim',],
     classifiers=[
         'Development Status :: 3 - Alpha',
